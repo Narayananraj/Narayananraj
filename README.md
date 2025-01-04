@@ -6,7 +6,9 @@ I am passionate about solving complex problems through innovative DevOps practic
 Languages and Tools:
 
 
-![amazon-web-services](https://github.com/user-attachments/assets/fc1b72cd-0013-4122-aeac-243075cfbbf6) ![download](https://github.com/user-attachments/assets/1273249d-c60c-4205-b348-4f0df8e58c47)
+![amazon-web-services](https://github.com/user-attachments/assets/fc1b72cd-0013-4122-aeac-243075cfbbf6) ![download](https://github.com/user-attachments/assets/1273249d-c60c-4205-b348-4f0df8e58c47)![download](https://github.com/user-attachments/assets/2296ee53-3c5e-4572-9b4c-dbfa2390cb21)![download](https://github.com/user-attachments/assets/5253cf38-5de6-4cc9-9faa-b79f3773a20a)
+
+
 
 
 
