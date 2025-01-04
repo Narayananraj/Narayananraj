@@ -7,10 +7,11 @@ Languages and Tools:
 
 
 ![amazon-web-services](https://github.com/user-attachments/assets/fc1b72cd-0013-4122-aeac-243075cfbbf6) 
+![1_LOFbTP2SxXcFpM_qTsUSuw](https://github.com/user-attachments/assets/ed957f11-e32c-467d-87b4-c8933249ff7a)
 
 
 
 
 
 
-![gif3](https://github.com/user-attachments/assets/ea9c0c57-ede2-477c-859d-137e5599c1d4)
+
