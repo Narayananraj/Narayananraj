@@ -1,29 +1,15 @@
-                                                  Hi 👋, I'm Narayanan Rajendiran
+# 💫 About Me:
+Highly motivated and results-oriented DevOps Engineer with a strong foundation in cloud technologies and a proven ability to automate and streamline software delivery processes. Expertise in implementing and managing CI/CD pipelines, infrastructure provisioning, and containerization solutions. Passionate about leveraging cutting-edge technologies to improve efficiency, scalability, and reliability in software development and deployment.
 
 
-I am passionate about solving complex problems through innovative DevOps practices and cloud-native solutions. With a solid background in deploying scalable, automated systems, I specialize in CI/CD pipelines, Kubernetes, AWS Cloud, and containerization. My work is focused on bridging the gap between development and operations, enabling faster, more reliable delivery of software and infrastructure. 🎯
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Narayananraj&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Narayananraj&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Narayananraj&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![gif3](https://github.com/user-attachments/assets/899015cf-f66c-42f5-a9d5-877c6a9570ec)
+---
+[![](https://visitcount.itsvg.in/api?id=Narayananraj&icon=1&color=1)](https://visitcount.itsvg.in)
 
-
-Languages and Tools:
-
-
-![amazon-web-services](https://github.com/user-attachments/assets/fc1b72cd-0013-4122-aeac-243075cfbbf6) ![download](https://github.com/user-attachments/assets/1273249d-c60c-4205-b348-4f0df8e58c47)![download](https://github.com/user-attachments/assets/2296ee53-3c5e-4572-9b4c-dbfa2390cb21)![download](https://github.com/user-attachments/assets/5253cf38-5de6-4cc9-9faa-b79f3773a20a)![download](https://github.com/user-attachments/assets/f0fc0600-86dc-4afc-9381-6c76a88f81b1)![images](https://github.com/user-attachments/assets/d429d35d-d0ab-4ecc-a8de-15fd05fbf2fc)![download](https://github.com/user-attachments/assets/b798c4a5-4ea5-4392-8c6b-77016ef56bde)![download](https://github.com/user-attachments/assets/45f0b048-e285-4bf5-8ab1-12b27d59654c)![download](https://github.com/user-attachments/assets/ee40b8f2-ca4a-4ff7-8c4f-a4e05e28b26a)![download](https://github.com/user-attachments/assets/c9bce19a-dec2-448d-9b88-7f8af8f26fc1)![download](https://github.com/user-attachments/assets/5fd71244-5003-442b-9632-b922e0a5a4fa)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
