@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Highly motivated and results-oriented DevOps Engineer with a strong foundation in cloud technologies and a proven ability to automate and streamline software delivery processes. Expertise in implementing and managing CI/CD pipelines, infrastructure provisioning, and containerization solutions. Passionate about leveraging cutting-edge technologies to improve efficiency, scalability, and reliability in software development and deployment.
 
 ![17373570674243258197940112365482](https://github.com/user-attachments/assets/306fedd2-8a36-4a2f-9b09-44140fc2f930)
