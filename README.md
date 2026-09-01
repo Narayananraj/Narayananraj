@@ -4,8 +4,6 @@
 - 🌍  I'm based in Chennai, India
 - ✉️  You can contact me at [narayananraj330@gmail.com](mailto:narayananraj330@gmail.com)
 
-<br>
-
 ### 🚀 About Me
 
 - 🔧 Platform Engineer focused on **DevOps** and **MLOps** practices
@@ -17,30 +15,36 @@
 - 🌱 Currently deepening my knowledge of **Kubernetes internals** and sharing what I learn on **LinkedIn**
 - 💬 Ask me about anything from **container orchestration to pipeline automation**
 
-<br>
-
 ### 🛠️ Skills
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,python,bash,linux,ubuntu,aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,grafana,prometheus,elasticsearch" />
 </p>
 
-<sup>Also working with: ArgoCD · Helm · Nexus · Amazon ECR · SonarQube · Trivy · Loki · BetterStack · CloudWatch</sup>
+**Also working with**
 
-<br>
+<p align="left">
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Nexus-1A1A1A?style=flat-square&logo=sonatype&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/BetterStack-000000?style=flat-square&logo=betterstack&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
+</p>
 
 ### 🌐 Socials
 
 <p align="left">
 <a href="https://www.github.com/Narayananraj" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" alt="GitHub" title="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/Narayananraj" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn" />
 </a>
 </p>
-
-<br>
 
 ### 📊 GitHub Stats
 
