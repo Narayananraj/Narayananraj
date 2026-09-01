@@ -46,9 +46,6 @@
 </a>
 </p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Narayananraj&label=Profile%20Views&color=0891b2&style=flat" alt="Profile views" />
-</p>
 
 ### 📊 GitHub Stats
 
