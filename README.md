@@ -24,15 +24,15 @@
 **Also working with**
 
 <p align="left">
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
-<img src="https://img.shields.io/badge/Nexus-1A1A1A?style=flat-square&logo=sonatype&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/BetterStack-000000?style=flat-square&logo=betterstack&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/Nexus-1A1A1A?style=for-the-badge&logo=sonatype&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/BetterStack-000000?style=for-the-badge&logo=betterstack&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
 </p>
 
 ### 🌐 Socials
@@ -44,6 +44,10 @@
 <a href="https://www.linkedin.com/in/Narayananraj" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn" />
 </a>
+</p>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Narayananraj&label=Profile%20Views&color=0891b2&style=flat" alt="Profile views" />
 </p>
 
 ### 📊 GitHub Stats
